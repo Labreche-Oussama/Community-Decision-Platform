@@ -36,7 +36,7 @@ VoteHub is a collaborative decision-making platform designed for communities, te
 
 1. **Clone and setup environment**
 ```bash
-git clone https://github.com/ouss218/Community-Decision-Platform.git
+git clone https://github.com/Labreche-Oussama/Community-Decision-Platform.git
 cd Voting_App
 python -m venv venv
 source venv/bin/activate
